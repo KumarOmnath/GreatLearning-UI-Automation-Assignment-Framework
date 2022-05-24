@@ -1,0 +1,305 @@
+Before navigating to: 'https://www.mygreatlearning.com/'
+Navigated to:'https://www.mygreatlearning.com/'
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+24/05/2022 19:55:37 [main] INFO  commonUtils.GenericUtility-Actions Mouse Overing to the Element [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //div[@data-event-type='Explore Programs']]
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Trying to find Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Found Element By : By.xpath: //div[@data-event-type='Explore Programs']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //div[@data-event-type='Explore Programs']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //div[@data-event-type='Explore Programs']]
+Trying to find Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Found Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Trying to find Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Found Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Trying to find Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Found Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Trying to find Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Found Element By : By.xpath: //li[@data-event-type='Cloud Computing']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //li[@data-event-type='Cloud Computing']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //li[@data-event-type='Cloud Computing']]
+Trying to find Element By : By.xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']
+Found Element By : By.xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']
+Trying to find Element By : By.xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']
+Found Element By : By.xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//p[.='Cloud Computing'])[1]/following-sibling::ul/li//p[.='PG Program in Cloud Computing']]
+Trying to find Element By : By.xpath: //a[.='Apply Now']
+Found Element By : By.xpath: //a[.='Apply Now']
+Trying to find Element By : By.xpath: //a[.='Apply Now']
+Found Element By : By.xpath: //a[.='Apply Now']
+Trying to find Element By : By.xpath: //a[.='Apply Now']
+Found Element By : By.xpath: //a[.='Apply Now']
+Trying to find Element By : By.xpath: //a[.='Apply Now']
+Found Element By : By.xpath: //a[.='Apply Now']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //a[.='Apply Now']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //a[.='Apply Now']]
+Trying to find Element By : By.id: name
+Found Element By : By.id: name
+Trying to find Element By : By.id: name
+Found Element By : By.id: name
+Trying to find Element By : By.id: name
+Found Element By : By.id: name
+24/05/2022 19:55:52 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: KumarTesting Purpose
+Trying to find Element By : By.id: name
+Found Element By : By.id: name
+Trying to find Element By : By.id: phone
+Found Element By : By.id: phone
+Trying to find Element By : By.id: phone
+Found Element By : By.id: phone
+24/05/2022 19:55:52 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: 1234567898
+Trying to find Element By : By.id: phone
+Found Element By : By.id: phone
+Trying to find Element By : By.id: email
+Found Element By : By.id: email
+Trying to find Element By : By.id: email
+Found Element By : By.id: email
+24/05/2022 19:55:52 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: kumartest@mailcache.com
+Trying to find Element By : By.id: email
+Found Element By : By.id: email
+Trying to find Element By : By.id: myCity
+Found Element By : By.id: myCity
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: myCity]
+Trying to find Element By : By.id: myCity
+Found Element By : By.id: myCity
+Trying to find Element By : By.id: myCity
+Found Element By : By.id: myCity
+Trying to find Element By : By.id: myCity
+Found Element By : By.id: myCity
+24/05/2022 19:55:53 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: Bangalore
+Trying to find Element By : By.id: myCity
+Found Element By : By.id: myCity
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+24/05/2022 19:55:54 [main] INFO  commonUtils.GenericUtility-Select expected value - [PG Student] from dropdown
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.tagName: option
+Found Element By : By.tagName: option
+Trying to find Element By : By.id: experience
+Found Element By : By.id: experience
+Trying to find Element By : By.xpath: .//option[normalize-space(.) = "PG Student"]
+Found Element By : By.xpath: .//option[normalize-space(.) = "PG Student"]
+Trying to click on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: experience]] -> xpath: .//option[normalize-space(.) = "PG Student"]]
+Clicked on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: experience]] -> xpath: .//option[normalize-space(.) = "PG Student"]]
+Trying to find Element By : By.id: app_step_1
+Found Element By : By.id: app_step_1
+Trying to find Element By : By.id: app_step_1
+Found Element By : By.id: app_step_1
+Trying to find Element By : By.id: app_step_1
+Found Element By : By.id: app_step_1
+Trying to find Element By : By.id: app_step_1
+Found Element By : By.id: app_step_1
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: app_step_1]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: app_step_1]
+Trying to find Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Found Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //label[.='Years of programming experience']/../select/option[6]]
+Trying to find Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Found Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Trying to find Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Found Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Trying to find Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Found Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Trying to find Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Found Element By : By.xpath: //label[.='Years of programming experience']/../select/option[6]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //label[.='Years of programming experience']/../select/option[6]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //label[.='Years of programming experience']/../select/option[6]]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[5]
+Found Element By : By.xpath: (//input[@type='checkbox'])[5]
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//input[@type='checkbox'])[5]]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[5]
+Found Element By : By.xpath: (//input[@type='checkbox'])[5]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[5]
+Found Element By : By.xpath: (//input[@type='checkbox'])[5]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[5]
+Found Element By : By.xpath: (//input[@type='checkbox'])[5]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[5]
+Found Element By : By.xpath: (//input[@type='checkbox'])[5]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//input[@type='checkbox'])[5]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//input[@type='checkbox'])[5]]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[3]
+Found Element By : By.xpath: (//input[@type='checkbox'])[3]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[3]
+Found Element By : By.xpath: (//input[@type='checkbox'])[3]
+Trying to find Element By : By.xpath: (//input[@type='checkbox'])[3]
+Found Element By : By.xpath: (//input[@type='checkbox'])[3]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//input[@type='checkbox'])[3]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//input[@type='checkbox'])[3]]
+Trying to find Element By : By.xpath: //input[@name='other_planguages']
+Found Element By : By.xpath: //input[@name='other_planguages']
+Trying to find Element By : By.xpath: //input[@name='other_planguages']
+Found Element By : By.xpath: //input[@name='other_planguages']
+Trying to find Element By : By.xpath: //input[@name='other_planguages']
+Found Element By : By.xpath: //input[@name='other_planguages']
+24/05/2022 19:56:06 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: JavaSelenium
+Trying to find Element By : By.xpath: //input[@name='other_planguages']
+Found Element By : By.xpath: //input[@name='other_planguages']
+Trying to find Element By : By.id: professional_section
+Found Element By : By.id: professional_section
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: professional_section]
+Trying to find Element By : By.id: professional_section
+Found Element By : By.id: professional_section
+Trying to find Element By : By.id: professional_section
+Found Element By : By.id: professional_section
+Trying to find Element By : By.id: professional_section
+Found Element By : By.id: professional_section
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: professional_section]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: professional_section]
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: grad_degree]
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+24/05/2022 19:56:11 [main] INFO  commonUtils.GenericUtility-Select expected value - [B.E./B.Tech.] from dropdown
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.tagName: option
+Found Element By : By.tagName: option
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.xpath: .//option[normalize-space(.) = "B.E./B.Tech."]
+Found Element By : By.xpath: .//option[normalize-space(.) = "B.E./B.Tech."]
+Trying to click on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: grad_degree]] -> xpath: .//option[normalize-space(.) = "B.E./B.Tech."]]
+Clicked on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: grad_degree]] -> xpath: .//option[normalize-space(.) = "B.E./B.Tech."]]
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.id: grad_degree
+Found Element By : By.id: grad_degree
+Trying to find Element By : By.xpath: //input[@name='grad_specialization']
+Found Element By : By.xpath: //input[@name='grad_specialization']
+Trying to find Element By : By.xpath: //input[@name='grad_specialization']
+Found Element By : By.xpath: //input[@name='grad_specialization']
+Trying to find Element By : By.xpath: //input[@name='grad_specialization']
+Found Element By : By.xpath: //input[@name='grad_specialization']
+24/05/2022 19:56:15 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: Electronic and Instrumentation
+Trying to find Element By : By.xpath: //input[@name='grad_specialization']
+Found Element By : By.xpath: //input[@name='grad_specialization']
+Trying to find Element By : By.xpath: //input[@name='grad_college']
+Found Element By : By.xpath: //input[@name='grad_college']
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: //input[@name='grad_college']]
+Trying to find Element By : By.xpath: //input[@name='grad_college']
+Found Element By : By.xpath: //input[@name='grad_college']
+Trying to find Element By : By.xpath: //input[@name='grad_college']
+Found Element By : By.xpath: //input[@name='grad_college']
+Trying to find Element By : By.xpath: //input[@name='grad_college']
+Found Element By : By.xpath: //input[@name='grad_college']
+24/05/2022 19:56:16 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: madras University
+Trying to find Element By : By.xpath: //input[@name='grad_college']
+Found Element By : By.xpath: //input[@name='grad_college']
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+24/05/2022 19:56:20 [main] INFO  commonUtils.GenericUtility-Select expected value - [2019] from dropdown
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.tagName: option
+Found Element By : By.tagName: option
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.xpath: .//option[normalize-space(.) = "2019"]
+Found Element By : By.xpath: .//option[normalize-space(.) = "2019"]
+Trying to click on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: grad_year]] -> xpath: .//option[normalize-space(.) = "2019"]]
+Clicked on: [[[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: grad_year]] -> xpath: .//option[normalize-space(.) = "2019"]]
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.id: grad_year
+Found Element By : By.id: grad_year
+Trying to find Element By : By.id: grad_cgpa
+Found Element By : By.id: grad_cgpa
+Trying to find Element By : By.id: grad_cgpa
+Found Element By : By.id: grad_cgpa
+Trying to find Element By : By.id: grad_cgpa
+Found Element By : By.id: grad_cgpa
+24/05/2022 19:56:25 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: 78
+Trying to find Element By : By.id: grad_cgpa
+Found Element By : By.id: grad_cgpa
+Trying to find Element By : By.id: prof_details_end
+Found Element By : By.id: prof_details_end
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: prof_details_end]
+Trying to find Element By : By.id: prof_details_end
+Found Element By : By.id: prof_details_end
+Trying to find Element By : By.id: prof_details_end
+Found Element By : By.id: prof_details_end
+Trying to find Element By : By.id: prof_details_end
+Found Element By : By.id: prof_details_end
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: prof_details_end]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: prof_details_end]
+Trying to find Element By : By.xpath: //input[@name='linkedinurl']
+Found Element By : By.xpath: //input[@name='linkedinurl']
+Trying to find Element By : By.xpath: //input[@name='linkedinurl']
+Found Element By : By.xpath: //input[@name='linkedinurl']
+Trying to find Element By : By.xpath: //input[@name='linkedinurl']
+Found Element By : By.xpath: //input[@name='linkedinurl']
+24/05/2022 19:56:30 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: https://www.linkedin.com/signup
+Trying to find Element By : By.xpath: //input[@name='linkedinurl']
+Found Element By : By.xpath: //input[@name='linkedinurl']
+Trying to find Element By : By.id: upload_next
+Found Element By : By.id: upload_next
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: upload_next]
+Trying to find Element By : By.id: upload_next
+Found Element By : By.id: upload_next
+Trying to find Element By : By.id: upload_next
+Found Element By : By.id: upload_next
+Trying to find Element By : By.id: upload_next
+Found Element By : By.id: upload_next
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: upload_next]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: upload_next]
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: new_question1]
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+24/05/2022 19:56:30 [main] INFO  commonUtils.GenericUtility-Enter text in to textField: Please ignore,its for testing Assignment Purpose
+Trying to find Element By : By.id: new_question1
+Found Element By : By.id: new_question1
+Trying to find Element By : By.xpath: (//label[@for='declare'])[1]
+Found Element By : By.xpath: (//label[@for='declare'])[1]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//label[@for='declare'])[1]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> xpath: (//label[@for='declare'])[1]]
+Trying to find Element By : By.id: submit_app
+Found Element By : By.id: submit_app
+Trying to find Element By : By.id: submit_app
+Found Element By : By.id: submit_app
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: submit_app]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (1e611f8608db4f1a93d5b49f7ee82062)] -> id: submit_app]
+<<<<<<<<<browser close>>>>>>>>>>>>>
+===========================================================
+Test Case Executed Sucesfully,Test Name is:	feature
+===========================================================
+
+===============================================
+GreatLearning Test Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
